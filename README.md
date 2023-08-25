@@ -18,3 +18,6 @@ When entering your message, you can instead declare another decrypt/encrypt.
 - decode (encode (message))
 
 Note the space between the encode/decode and the open parentheses. This space is needed or an error will occur. 
+
+## Contributions
+This project was created in collaboration with Joshua Harrison
