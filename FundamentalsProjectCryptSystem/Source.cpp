@@ -144,7 +144,7 @@ string message(string str) {
 	if (int(str.find('\(')) > -1 || int(str.find('\)')) > -1) {  //return if the user wants to encode or decode
 		return userInput(str);
 	}
-	else {  //return the message or the error
+	else {  //return the message or the error code
 		if (validateCharacters(str)) {
 			return str;
 		}
