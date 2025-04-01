@@ -20,4 +20,4 @@ When entering your message, you can instead declare another decrypt/encrypt.
 Note the space between the encode/decode and the open parentheses. This space is needed or an error will occur. 
 
 ## Contributions
-This project was created in collaboration with Joshua Harrison
+This project was created in collaboration with William Holcomb
